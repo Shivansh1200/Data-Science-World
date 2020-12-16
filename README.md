@@ -12,7 +12,7 @@
   <img align="left" alt="Shivansh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
-💻  I'm
+💻  I'm Shivansh from India
 
 ![image](https://github.com/Shivansh1200/Data-Science_World/blob/master/Namebanner.jpg)
 ### I'm a student of Computer Science engineering at SRMIST. 
